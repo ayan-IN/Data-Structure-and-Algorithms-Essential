@@ -1,6 +1,6 @@
 <table>
 <td>
-<img src="https://github.com/ayan-IN/ImageAssets/blob/main/5nnkrcc3kixypm642opg.gif?raw=true" width="256"/>
+<img src="https://github.com/ayan-IN/ImageAssets/blob/main/cppglobe.webp" width="256"/>
 </td>
 <td>
 
